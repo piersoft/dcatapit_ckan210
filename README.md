@@ -87,3 +87,5 @@ Riga 1209 aggiungere if isinstance(langs, str):
 
 
 
+DEMO con harvesting misto (RDF e tramite API) su https://www.piersoft.it/ckan/index2.php 
+
