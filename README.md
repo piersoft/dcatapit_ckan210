@@ -33,11 +33,11 @@ sudo service solr restart
 sudo service supervisor restart
 
 DCATAPIT in DEV MODE
+SCARICARE IL FILE .ZIP da questa REPO con tutti i files DCATAPIT ed estrarli in /usr/lib/ckan/default/src
 
 pip install routes
 Modificare requirements.txt —>  markupsafe==2.0
 
-git clone https://github.com/geosolutions-it/ckanext-dcatapit.git
 cd ckanext-dcatapit
 pip install -e .
 pip install -r dev-requirements.txt
