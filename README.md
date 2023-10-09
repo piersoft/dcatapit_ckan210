@@ -24,7 +24,7 @@ Installare
 
 HARVEST
 DCAT
-MULTILANG (non mettere multilang_resource nel plugin come indicato erroneamente)
+MULTILANG (non mettere multilang_resource né multilang_harvester nel plugin come indicato erroneamente)
 ckan --config=/etc/ckan/default/ckan.ini multilang initdb 
 
 Bug segnalato per permesso negato ai file di traduzione —> ckan -c /etc/ckan/default/ckan.ini translation js
