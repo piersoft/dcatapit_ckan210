@@ -89,3 +89,8 @@ Riga 1209 aggiungere if isinstance(langs, str):
 
 DEMO con harvesting misto (RDF e tramite API) su https://www.piersoft.it/ckan/index2.php 
 
+ADDENDUM:
+Plugin testati:
+ckan.plugins = activity datatables_view image_view multilang_resources datastore harvest ckan_harvester multilang dcat dcat_rdf_harvester dcat_json_harvester dcat_json_interface dcatapit_pkg dcatapit_org dcatapit_config dcatapit_theme_group_mapper dcatapit_ckan_harvester dcatapit_harvester xloader
+
+Macchina Virtuale pronta per lo studio e il riuso --> 
