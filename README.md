@@ -93,4 +93,4 @@ ADDENDUM:
 Plugin testati:
 ckan.plugins = activity datatables_view image_view multilang_resources datastore harvest ckan_harvester multilang dcat dcat_rdf_harvester dcat_json_harvester dcat_json_interface dcatapit_pkg dcatapit_org dcatapit_config dcatapit_theme_group_mapper dcatapit_ckan_harvester dcatapit_harvester xloader
 
-Macchina Virtuale pronta per lo studio e il riuso --> 
+Macchina Virtuale pronta per lo studio e il riuso --> https://www.piersoft.it/ckan2-10-e-dcatapit-macchina-virtuale/ 
